@@ -82,7 +82,7 @@ const PhotoList = ({ onPhotoClick }) => {
             <Camera className="text-indigo-600" size={32} />
             <h1 className="text-3xl font-bold text-gray-900">Photo Gallery</h1>
           </div>
-          <p className="text-gray-600 mt-2">Beautiful photos from Lorem Picsum</p>
+          <p className="text-gray-600 mt-2">Photos list from Lorem Picsum APIs</p>
         </div>
       </header>
 
